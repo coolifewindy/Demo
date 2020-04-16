@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Demo:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a908d1ed-98b6-4a72-b10a-a85bf0df6f3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Demo_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Demo_jar/Demo.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/chen/Demo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/chen/Demo$doprint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/chen/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/com/chen/MyFun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Demo/lib/commons-lang3-3.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/chen/MyFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/commons-lang3-3.8.1.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\workspace\Demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZzHsx011Iy5zJoCM94wdp7uyFK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\Demo\src\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Demo.test5">
+    <configuration name="Demo.getUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chen" />
+      <option name="MAIN_CLASS_NAME" value="com.chen.Demo" />
+      <option name="METHOD_NAME" value="getUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chen" />
+      <option name="MAIN_CLASS_NAME" value="com.chen.Demo" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chen" />
+      <option name="MAIN_CLASS_NAME" value="com.chen.Demo" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chen" />
+      <option name="MAIN_CLASS_NAME" value="com.chen.Demo" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chen" />
+      <option name="MAIN_CLASS_NAME" value="com.chen.Demo" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Demo.test5" />
+        <item itemvalue="JUnit.Demo.test4" />
+        <item itemvalue="JUnit.Demo.getUp" />
+        <item itemvalue="JUnit.Demo.test3" />
+        <item itemvalue="JUnit.Demo.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a908d1ed-98b6-4a72-b10a-a85bf0df6f3b" name="Default Changelist" comment="" />
+      <created>1585835212988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585835212988</updated>
+      <workItem from="1585835217622" duration="302000" />
+      <workItem from="1585877337791" duration="279000" />
+      <workItem from="1586250775107" duration="910000" />
+      <workItem from="1586256375374" duration="4671000" />
+      <workItem from="1586436691444" duration="1290000" />
+      <workItem from="1586527087734" duration="26000" />
+      <workItem from="1586527118472" duration="9000" />
+      <workItem from="1586835141324" duration="7805000" />
+      <workItem from="1586916844102" duration="2011000" />
+      <workItem from="1587002271690" duration="3381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="39" key="#Project_Structure" timestamp="1586437524662">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="39" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1586437524662" />
+    <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585835244730">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1585835244730" />
+    <state x="446" y="89" width="551" height="581" key="#com.intellij.ide.util.MemberChooser" timestamp="1586916980858">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="446" y="89" width="551" height="581" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1586916980858" />
+    <state x="395" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586257748169">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="395" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.760@0.0.1280.760" timestamp="1586257748169" />
+    <state x="508" y="87" key="#xdebugger.evaluate" timestamp="1586855466218">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="508" y="87" key="#xdebugger.evaluate/0.0.1280.760@0.0.1280.760" timestamp="1586855466218" />
+    <state x="440" y="139" key="FileChooserDialogImpl" timestamp="1587005762386">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="440" y="139" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1587005762386" />
+    <state x="464" y="293" width="374" height="172" key="Github.CreateGistDialog" timestamp="1587004718921">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="464" y="293" width="374" height="172" key="Github.CreateGistDialog/0.0.1280.760@0.0.1280.760" timestamp="1587004718921" />
+    <state x="450" y="328" width="268" height="286" key="Github.ShareDialog" timestamp="1587005059244">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="450" y="328" width="268" height="286" key="Github.ShareDialog/0.0.1280.760@0.0.1280.760" timestamp="1587005059244" />
+    <state width="1238" height="120" key="GridCell.Tab.0.bottom" timestamp="1586950859496">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="120" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1586950859496" />
+    <state width="1238" height="120" key="GridCell.Tab.0.center" timestamp="1586950859496">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="120" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1586950859496" />
+    <state width="1238" height="120" key="GridCell.Tab.0.left" timestamp="1586950859496">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="120" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1586950859496" />
+    <state width="1238" height="120" key="GridCell.Tab.0.right" timestamp="1586950859496">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="120" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1586950859496" />
+    <state width="1238" height="236" key="GridCell.Tab.1.bottom" timestamp="1586855529565">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1586855529565" />
+    <state width="1238" height="236" key="GridCell.Tab.1.center" timestamp="1586855529564">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1586855529564" />
+    <state width="1238" height="236" key="GridCell.Tab.1.left" timestamp="1586855529564">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1586855529564" />
+    <state width="1238" height="236" key="GridCell.Tab.1.right" timestamp="1586855529564">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1586855529564" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1587005035606">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1587005035606" />
+    <state x="233" y="113" key="Vcs.Push.Dialog.v2" timestamp="1587005665316">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="113" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1587005665316" />
+    <state x="339" y="281" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586835239630">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="339" y="281" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.760@0.0.1280.760" timestamp="1586835239630" />
+    <state x="325" y="238" width="667" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586251163886">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="325" y="238" width="667" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.760@0.0.1280.760" timestamp="1586251163886" />
+    <state x="471" y="171" key="svn.repositoryBrowser" timestamp="1587004018252">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="471" y="171" key="svn.repositoryBrowser/0.0.1280.760@0.0.1280.760" timestamp="1587004018252" />
+  </component>
+</project>
